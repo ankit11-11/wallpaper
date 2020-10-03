@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "381044513859",
+    "firebase_url": "https://fir-wallpaper-cd606.firebaseio.com",
+    "project_id": "fir-wallpaper-cd606",
+    "storage_bucket": "fir-wallpaper-cd606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381044513859:android:aba4ff2c688459190548f6",
+        "android_client_info": {
+          "package_name": "com.example.firebasewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381044513859-tpoqonlq68e3rc67aabah4il70vo4cj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasewallpaper",
+            "certificate_hash": "fd7e689b48a16e5040c5b9e2902a970aa396e297"
+          }
+        },
+        {
+          "client_id": "381044513859-nop1bms61m3m1i464arm3m9pa2dj7omn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC0TMtxu_gm1xjXoxxAIMIDATtLV7MfKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381044513859-nop1bms61m3m1i464arm3m9pa2dj7omn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
